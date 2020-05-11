@@ -5,7 +5,7 @@ import TodoList from "./Components/TodoList";
 function App() {
     const q = React.useState([
         {id: 1, completed: false, title: 'Купить белый хлеб'},
-        {id: 2, completed: false, title: 'Купить масло'},
+        {id: 2, completed: false, title: 'Купить много масло'},
         {id: 3, completed: false, title: 'Купить молоко'},
     ])
 
